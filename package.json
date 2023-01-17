@@ -1,0 +1,12 @@
+{
+  "name": "junk_code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jacksonSingleton/junk.git",
+  "author": "Jackson Singleton <jsingleton12321@yahoo.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "webdriverio": "^8.1.3"
+  }
+}
